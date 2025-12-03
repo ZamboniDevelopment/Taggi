@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taggi", "Taggi.csproj", "{83083A4D-6297-42EF-A298-DFCB2F38317F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tdf", "..\BlazeSDK\Tdf\Tdf.csproj", "{49FF9B2D-D471-4359-9016-034E79D1DC79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83083A4D-6297-42EF-A298-DFCB2F38317F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83083A4D-6297-42EF-A298-DFCB2F38317F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83083A4D-6297-42EF-A298-DFCB2F38317F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83083A4D-6297-42EF-A298-DFCB2F38317F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49FF9B2D-D471-4359-9016-034E79D1DC79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49FF9B2D-D471-4359-9016-034E79D1DC79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49FF9B2D-D471-4359-9016-034E79D1DC79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49FF9B2D-D471-4359-9016-034E79D1DC79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
