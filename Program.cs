@@ -119,7 +119,7 @@ internal class Program
 
         public bool IsSane()
         {
-            if (Tag.Length <= 2 || Tag.Length > 4) //Tag possibly could be 1 letter, but its quite rare, and it produces a lot of false results here.
+            if (Tag.Length <= 1 || Tag.Length > 4) //Tag possibly could be 1 letter, but its quite rare, and it produces a lot of false results here.
                 return false;
 
             foreach (char c in Tag) //Check if characters are from the alphabet A-Z
