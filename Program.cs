@@ -144,7 +144,7 @@ internal class Program
     {
         SORTED_DICTIONARY = 0x00,
         LIST = 0x01,
-        MAYBE_NUMBER_UINT = 0x02,
+        FLOAT = 0x02,
         BOOLEAN = 0x0F,
         STRING = 0x04,
         MAYBE_BLAZE_OBJECT = 0x06,
